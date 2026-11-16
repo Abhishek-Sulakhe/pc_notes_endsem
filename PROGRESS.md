@@ -73,3 +73,4 @@
 - [x] `notes_study/EXAM_PREPARATION/03_Master_Numerical_Bank.md` — **COMPLETED**
 - [x] `notes_study/EXAM_PREPARATION/04_High_Probability_Exam_Questions_and_Model_Answers.md` — **COMPLETED**
 - [x] `notes_study/EXAM_PREPARATION/05_POSIX_and_OpenMP_Syntax_Sheet.md` — **COMPLETED**
+- [x] `notes_study/EXAM_PREPARATION/06_OpenMP_Syntax_Code_Examples.md` — **COMPLETED**
